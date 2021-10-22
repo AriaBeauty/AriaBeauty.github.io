@@ -1,31 +1,31 @@
 @charset "UTF-8";
 
 html{
-/*�����̎w��*/
+/*横幅の指定*/
  width:1000px;
-/*�t�H���g�̎w��*/
+/*フォントの指定*/
  font-family: 'Noto Serif JP', serif;
 }
 
 
 body{
-/*�y�[�W�S�̂̉����E�c���̎w��*/*/
+/*ページ全体の横幅・縦幅の指定*/*/
  width:1000px;
  height:1800px;
-/*�w�i�摜�̎w��*/
+/*背景画像の指定*/
  background-image:url("../image/index_back.jpg");
 }
 
 
 #header{
-/*�����c���̎w��*/
+/*横幅縦幅の指定*/
  width:1000px;
  height:190px;
-/*�v�f���c�ɕ��ׂ�*/
+/*要素を縦に並べる*/
  display:inline-block;
-/*�����ɔz�u����*/
+/*左寄りに配置する*/
  float:left;
-/*���s���̗D��x��ݒ肷��*/
+/*奥行きの優先度を設定する*/
  z-index:3;
 }
 
@@ -84,42 +84,41 @@ nav li:hover{
 nav li a{
   font-size: 30px;
   text-decoration: none;
-  font-size: 20px;
   color: #767171;;
 }
 
 
 
-/*�X�����S�̐ݒ�*/
+/*店名ロゴの設定*/
 #header #rogo{
-/*�ꏊ�̎w��*/
+/*場所の指定*/
  margin-left: 220px;
  width:360px;
-/*�c�ɔz�u����*/
+/*縦に配置する*/
  display:inline-block;
-/*���s���̗D��x��ݒ肷��*/
+/*奥行きの優先度を設定する*/
  z-index:3;
 }
-/*�X�����S�Ƀ|�C���g���悹��Ɠ����x���ς��*/
+/*店名ロゴにポイントを乗せると透明度が変わる*/
 #header #rogo:hover{
 
 opacity:0.5;
 
 }
-/*�C���X�^�O�����̉摜�ɂ��Đݒ�*/
+/*インスタグラムの画像について設定*/
 #instagram{
-/*�E���ɐݒ肷��*/
+/*右寄りに設定する*/
  float:right;
-/*�z�u�ꏊ��ݒ肷��*/
+/*配置場所を設定する*/
  margin-top:80px;
  margin-right:40px;
-/*���s���̗D��x��ݒ肷��*/
+/*奥行きの優先度を設定する*/
  z-index:3;
  height:64px;
  width:64px;
 }
 
-/*�C���X�^�O�����̉摜�Ƀ|�C���^�[���ڂ���Ɠ����x���ς��*/
+/*インスタグラムの画像にポインターを載せると透明度が変わる*/
 #instagram:hover{
 
 opacity:0.5;
@@ -127,140 +126,140 @@ opacity:0.5;
 }
 
 #menu_total{
-/*�c���̎w��*/
+/*縦幅の指定*/
 padding-top:300px;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 }
 
 #popular .small_moji{
-/*�����F�̕ύX*/
+/*文字色の変更*/
  color:#afabab;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 
 }
 
 
 #option{
-/*�c���̎w��*/
+/*縦幅の指定*/
 margin-top:100px;
 
 }
 
 #option .small_moji{
-/*�����F�̕ύX*/
+/*文字色の変更*/
  color:#afabab;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 
 }
 
 
 #set{
-/*�c���̎w��*/
+/*縦幅の指定*/
 margin-top:200px;
 
 }
 
 
 #set .small_moji{
-/*�����F�̕ύX*/
+/*文字色の変更*/
  color:#afabab;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 
 }
 
 
 #other{
-/*�c���̎w��*/
+/*縦幅の指定*/
 margin-top:200px;
 
 }
 
 
 #other .small_moji{
-/*�����F�̕ύX*/
+/*文字色の変更*/
  color:#afabab;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 
 }
 
 
 #tyuui{
-/*�c���̎w��*/
+/*縦幅の指定*/
 margin-top:200px;
 
 }
 
 
 #tyuui .small_moji{
-/*�����F�̕ύX*/
+/*文字色の変更*/
  color:#afabab;
-/*�t�H���g�T�C�Y�̕ύX*/
+/*フォントサイズの変更*/
  font-size:90%;
 
 }
 
 
-/*��ʉ��̃��j���[�o�[�̐ݒ�*/
+/*画面下のメニューバーの設定*/
 
 #menu_bottom{
-/*�e�L�X�g�̏ꏊ�𒆉����ɂ���*/
+/*テキストの場所を中央寄りにする*/
 text-align:center;
-/*�����̎w��*/
+/*横幅の指定*/
 width:1000px;
-/*�����ɂ���*/
+/*左寄りにする*/
 float:left;
-/*�z�u�ꏊ�̐ݒ�*/
+/*配置場所の設定*/
 margin-top:80px;
 }
 
 #menu_bottom ul{
-/*�����̎w��*/
+/*横幅の指定*/
 width:1000px;
 margin-left:-44px;
 }
 
 #menu_bottom li{
-/*�}�[�J�[�̍폜*/
+/*マーカーの削除*/
 list-style: none;
-/*�c�ɔz�u����*/
+/*縦に配置する*/
 display: table;
-/*�T�C�Y��ύX����*/
+/*サイズを変更する*/
 padding-left:114px;
 padding-right:114px;
-/*�t�H���g�̑�����ύX����*/
+/*フォントの太さを変更する*/
 font-weight:bold;
-/*�w�i�F��ύX����*/
+/*背景色を変更する*/
 background-color:#ffc0b2;
-/*�����T�C�Y��ύX����*/
+/*文字サイズを変更する*/
 font-size:150%;
-/*���̃T�C�Y��ς���*/
+/*箱のサイズを変える*/
 padding-top:30px;
 padding-bottom:30px;
-/*�����ɔz�u����*/
+/*左寄りに配置する*/
 float:left;
 }
 
 #menu_bottom li a{
-/*�}�[�J�[���Ȃ���*/
+/*マーカーをなくす*/
 text-decoration: none;
-/*�����̐F��ς���*/
+/*文字の色を変える*/
 color:#767171;
-/*�e�L�X�g�𒆉����ɂ���*/
+/*テキストを中央寄りにする*/
 text-align:center;
 
 }
 
 #menu_bottom li a:hover{
-/*�}�[�J�[���Ȃ���*/
+/*マーカーをなくす*/
 text-decoration: none;
-/*�����̐F��ς���*/
+/*文字の色を変える*/
 color:#ffffff;
-/*�e�L�X�g�𒆉����ɂ���*/
+/*テキストを中央寄りにする*/
 text-align:center;
 
 }
