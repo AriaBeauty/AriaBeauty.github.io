@@ -220,7 +220,7 @@ margin-top:200px;
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1200px;
+width:1000px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
@@ -253,7 +253,7 @@ padding-bottom:30px;
 /*左寄りに配置する*/
 float:left;
  /*横幅を指定*/
- width:333px;
+ width:105px;
 }
 
 #menu_bottom li a{
