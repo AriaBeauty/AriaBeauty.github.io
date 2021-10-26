@@ -1,17 +1,15 @@
 @charset "UTF-8";
 
 html{
-/*横幅の指定*/
- width:1000px;
 /*フォントの指定*/
  font-family: 'Noto Serif JP', serif;
+ /*ページ全体の横幅・縦幅の指定*/*/
+ width:1100px;
+ height:1900px;
 }
 
 
 body{
-/*ページ全体の横幅・縦幅の指定*/*/
- width:1000px;
- height:1700px;
 /*背景画像の指定*/
  background-image:url("../image/index_back.jpg");
   　　text-size-adjust: 100%;
