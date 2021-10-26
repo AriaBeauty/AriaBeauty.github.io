@@ -14,6 +14,10 @@ body{
  height:1800px;
 /*背景画像の指定*/
  background-image:url("../image/index_back.jpg");
+  　　text-size-adjust: 100%;
+ 　　-webkit-text-size-adjust: 100%;/*Chrome,Safari*/
+ 　　-ms-text-size-adjust: 100%;/*EgdeMobile*/
+ 　　-moz-text-size-adjust: 100%;/*firefox*/
 }
 
 
