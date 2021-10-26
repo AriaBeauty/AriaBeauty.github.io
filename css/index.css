@@ -249,12 +249,15 @@ animation-delay: 8s;
 #message{
 /*左寄りに配置する*/
  text-align:left;
- font-size:14px;
 margin-top:40px;
+}
+#message h2{
+   font-size:20px;
 }
 #message p{
 /*テキストの色を指定*/
  color:#777777;
+  font-size:16px;
 }
 
 /*テキストの色を指定*/
@@ -267,15 +270,19 @@ margin-top:40px;
 
  text-align:left;
  margin-top:40px;
- font-size:14px;
 
+}
+
+#infomation h2{
+ 
+    font-size:20px;
 }
 
 /*テキストの色を指定*/
 #infomation p{
 
  color:#777777;
-
+  font-size:16px;
 }
 
 /*テキストの色を指定*/
@@ -293,7 +300,7 @@ width:1000px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
-margin-top:80px;
+margin-top:160px;
 }
 
 #menu_bottom ul{
