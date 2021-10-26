@@ -133,14 +133,14 @@ opacity:0.5;
 /*縦幅の指定*/
 padding-top:300px;
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 }
 
 #popular .small_moji{
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:85%;
+ font-size:12px;
 
 }
 
@@ -149,14 +149,14 @@ padding-top:300px;
 /*縦幅の指定*/
 margin-top:100px;
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 }
 
 #option .small_moji{
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:85%;
+ font-size:12px;
 
 }
 
@@ -166,7 +166,7 @@ margin-top:100px;
 margin-top:200px;
 
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 }
 
 
@@ -174,7 +174,7 @@ margin-top:200px;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:85%;
+ font-size:12px;
 
 }
 
@@ -183,7 +183,7 @@ margin-top:200px;
 /*縦幅の指定*/
 margin-top:200px;
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 }
 
 
@@ -191,7 +191,7 @@ margin-top:200px;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:85%;
+ font-size:12px;
 
 }
 
@@ -201,7 +201,7 @@ margin-top:200px;
 margin-top:200px;
 
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 }
 
 
@@ -209,7 +209,7 @@ margin-top:200px;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:85%;
+ font-size:12px;
 
 }
 
@@ -220,7 +220,7 @@ margin-top:200px;
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1000px;
+width:1200px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
@@ -246,12 +246,14 @@ font-weight:bold;
 /*背景色を変更する*/
 background-color:#ffc0b2;
 /*文字サイズを変更する*/
-font-size:150%;
+font-size:15px;
 /*箱のサイズを変える*/
 padding-top:30px;
 padding-bottom:30px;
 /*左寄りに配置する*/
 float:left;
+ /*横幅を指定*/
+ width:333px;
 }
 
 #menu_bottom li a{
