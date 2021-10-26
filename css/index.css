@@ -249,7 +249,7 @@ animation-delay: 8s;
 #message{
 /*左寄りに配置する*/
  text-align:left;
- font-size:120px;
+ font-size:14px;
 margin-top:40px;
 }
 #message p{
@@ -267,7 +267,7 @@ margin-top:40px;
 
  text-align:left;
  margin-top:40px;
- font-size:12px;
+ font-size:14px;
 
 }
 
@@ -283,18 +283,17 @@ margin-top:40px;
  color:#3b3838;
 }
 
-
 /*画面下のメニューバーの設定*/
 
 #menu_bottom{
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1200px;
+width:1000px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
-margin-top:230px;
+margin-top:80px;
 }
 
 #menu_bottom ul{
@@ -316,12 +315,14 @@ font-weight:bold;
 /*背景色を変更する*/
 background-color:#ffc0b2;
 /*文字サイズを変更する*/
-font-size:150%;
+font-size:15px;
 /*箱のサイズを変える*/
 padding-top:30px;
 padding-bottom:30px;
 /*左寄りに配置する*/
 float:left;
+ /*横幅を指定*/
+ width:333px;
 }
 
 #menu_bottom li a{
