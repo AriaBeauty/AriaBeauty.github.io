@@ -197,12 +197,12 @@ padding-top:250px;
 
 #yoyaku_total h2{
 /*フォントサイズの変更*/
- font-size:200%;
+ font-size:16px;
 
 }
 #yoyaku_total h3{
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 
 }
 
@@ -216,7 +216,7 @@ margin-top:50px;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:130%;
+ font-size:12px;
 
 }
 #snsyoyaku{
@@ -230,19 +230,19 @@ width:500px;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:130%;
+ font-size:14px;
  width:500px;
 
 }
 
 #instagram_yoyaku p{
  
- font-size:130%;
+ font-size:12px;
 }
 
 #lineyoyaku p{
  
- font-size:130%;
+ font-size:12px;
 }
 
 #lineyoyaku{
@@ -260,7 +260,7 @@ width:500px;
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1000px;
+width:1200px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
