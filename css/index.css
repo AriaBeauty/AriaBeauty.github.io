@@ -252,12 +252,12 @@ animation-delay: 8s;
 margin-top:40px;
 }
 #message h2{
-   font-size:20px;
+   font-size:24px;
 }
 #message p{
 /*テキストの色を指定*/
  color:#777777;
-  font-size:16px;
+  font-size:20px;
 }
 
 /*テキストの色を指定*/
@@ -275,14 +275,14 @@ margin-top:40px;
 
 #infomation h2{
  
-    font-size:20px;
+    font-size:24px;
 }
 
 /*テキストの色を指定*/
 #infomation p{
 
  color:#777777;
-  font-size:16px;
+  font-size:20px;
 }
 
 /*テキストの色を指定*/
@@ -300,7 +300,7 @@ width:1000px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
-margin-top:160px;
+margin-top:240px;
 }
 
 #menu_bottom ul{
