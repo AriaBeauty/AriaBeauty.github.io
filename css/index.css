@@ -249,7 +249,7 @@ animation-delay: 8s;
 #message{
 /*左寄りに配置する*/
  text-align:left;
- font-size:120%;
+ font-size:120px;
 margin-top:40px;
 }
 #message p{
@@ -267,7 +267,7 @@ margin-top:40px;
 
  text-align:left;
  margin-top:40px;
- font-size:120%;
+ font-size:12px;
 
 }
 
@@ -290,7 +290,7 @@ margin-top:40px;
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1000px;
+width:1200px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
