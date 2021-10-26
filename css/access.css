@@ -130,13 +130,13 @@ opacity:0.5;
 }
 #access h2{
 /*フォントサイズの変更*/
- font-size:140%;
+ font-size:14px;
 
 }
 
 #access h3{
 /*フォントサイズの変更*/
- font-size:120%;
+ font-size:14px;
 
 }
 
@@ -145,14 +145,14 @@ opacity:0.5;
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:140%;
+ font-size:12px;
 }
 
 #shop_adress p{
 /*文字色の変更*/
  color:#777777;
 /*フォントサイズの変更*/
- font-size:140%;
+ font-size:12px;
 
 }
 
@@ -162,7 +162,7 @@ opacity:0.5;
 /*テキストの場所を中央寄りにする*/
 text-align:center;
 /*横幅の指定*/
-width:1000px;
+width:1200px;
 /*左寄りにする*/
 float:left;
 /*配置場所の設定*/
